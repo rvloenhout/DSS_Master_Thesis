@@ -1,0 +1,26 @@
+dtypes = {
+    "MONTH":"int64",
+    "DAY_OF_MONTH":"int64",
+    "DAY_OF_WEEK":"int64",
+    "OP_UNIQUE_CARRIER":"object",
+    "TAIL_NUM":"object",
+    "ORIGIN_AIRPORT_ID":"int64",
+    "ORIGIN":"object",
+    "ORIGIN_CITY_NAME":"object",
+    "DEST":"object",
+    "CRS_DEP_TIME":"Int64",
+    "DEP_DEL15":"Int64",
+    "DISTANCE_GROUP":"category",
+    "MANUFACTURE_YEAR":"Int64",
+    "NUMBER_OF_SEATS":"Int64",
+    "AWND":"float64",
+    "PRCP":"float64",
+    "SNOW":"float64",
+    "SNWD":"float64",
+    "TMAX":"float64",
+    "MEDIAN_AGE":"float64",
+    "TOT_POP":"Int64",
+    "AVG_HOUSEHOLD_SIZE":"float64", 
+    }
+
+random_state = 101
