@@ -9,6 +9,7 @@ dtypes = {
     "ORIGIN_CITY_NAME":"object",
     "DEST":"object",
     "CRS_DEP_TIME":"Int64",
+    "CRS_ARR_TIME":"Int64",
     "DEP_DEL15":"Int64",
     "DISTANCE_GROUP":"category",
     "MANUFACTURE_YEAR":"Int64",
