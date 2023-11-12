@@ -1,4 +1,4 @@
-from sklearn.metrics import roc_auc_score, balanced_accuracy_score, confusion_matrix, recall_score, precision_score, f1_score, roc_curve
+from sklearn.metrics import roc_auc_score, balanced_accuracy_score, confusion_matrix, recall_score, precision_score, f1_score, roc_curve, accuracy_score
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
