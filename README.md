@@ -1,4 +1,4 @@
-# DSS_Master_Thesis
+# Data Science & Society Master Thesis
 
 This repository hosts the code used for my Master Thesis.
 The main goal of the thesis was to predict commercial flight delays in the U.S. using machine and deep learning models.
@@ -7,7 +7,8 @@ The files are organized based on the colours of each fase.
 
 ![alt text](https://github.com/rvloenhout/DSS_Master_Thesis/blob/main/Methods_overview.png?raw=true)
 
-Below you will also find the abstact of the thesis:
+
+## Thesis abstract
 
 Air travel stands out as one of the most widely embraced means of transportation between continents and major cities. 
 Nevertheless, delays significantly impact travelers’ experiences, incur costs for airlines, and contribute to environmental emissions. 
