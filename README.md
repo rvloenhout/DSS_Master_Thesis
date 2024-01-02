@@ -4,8 +4,11 @@ This repository hosts the code used for my Master Thesis.
 The main goal of the thesis was to predict commercial flight delays in the U.S. using machine and deep learning models.
 A overview image can be found below that displays the diferent fases, methods and steps used in this project.
 The files are organized based on the colours of each fase.
+A current work in progress is to apply the methods on an hourly weather dataset instead of a daily one.
 
 ![alt text](https://github.com/rvloenhout/DSS_Master_Thesis/blob/main/Methods_overview.png?raw=true)
+
+The raw and processed data used for this thesis can be found on Kaggle using this [link](https://kaggle.com/datasets/b44226fc36a5951445ddde1525d4600e100a1031cd29ea7400d9bffe9f8587fa).
 
 
 ## Thesis abstract
